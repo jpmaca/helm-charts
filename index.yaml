@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  trocar:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-11T18:15:20.617062462Z"
+    description: A Helm chart for Kubernetes
+    digest: 5e7f90b6dcb4fefd82ad64f0b64b0e55d0d47f9dd7baa0fd7034888d9478fb9f
+    name: trocar
+    type: application
+    urls:
+    - https://github.com/jpmaca/helm-charts/releases/download/trocar-0.1.0/trocar-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-11T18:15:20.617068111Z"
